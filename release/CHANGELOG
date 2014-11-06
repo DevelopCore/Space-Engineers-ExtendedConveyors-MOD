@@ -1,0 +1,12 @@
+11/6/2014 
+Rebalanced components for ExtendedConveyor tubes.
+Added construction models for conveyor tee.
+Added conveyor tube cross plus added construction models.
+Renamed ExtendedConveyors SubtypeId naming convention for G-Menu this outdated old block users but we kept a hidden outdated block so we did not break your world.
+Added ExtendedConveyors to G-Menu conveyor category and created custom G-Menu category DevelopCore Inc. 
+
+11/05/2014
+Removed AutorotateMode from "CubeBlocks.sbc".
+Change conveyor tube tee from ID ConveyorConnector to Conveyor to fix multiple mount points within "CubeBlocks.sbc".
+Reimported conveyor tube tee after fixing improper material name issues.
+Imported conveyor tube tee into Space Engineers.
