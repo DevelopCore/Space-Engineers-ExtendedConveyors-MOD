@@ -11,6 +11,7 @@
 			<ItemIds>
 				<string>DevelopCore_INC_ConveyorTubeTee</string>
 				<string>DevelopCore_INC_ConveyorTubeCross</string>
+				<string>DevelopCore_INC_ConveyorTubeDiagonal</string>
 			</ItemIds>
 		</Category>
 		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
@@ -23,6 +24,7 @@
 			<ItemIds>
 				<string>DevelopCore_INC_ConveyorTubeTee</string>
 				<string>DevelopCore_INC_ConveyorTubeCross</string>
+				<string>DevelopCore_INC_ConveyorTubeDiagonal</string>
 			</ItemIds>
 		</Category>
 	</CategoryClasses>
